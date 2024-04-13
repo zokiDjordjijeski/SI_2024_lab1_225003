@@ -1,0 +1,54 @@
+commit c981a858a647aa9772eccaa12efcc8d3bc23df8b (HEAD -> master, origin/master)
+Merge: c24c006 96ba3da
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:49:13 2024 +0200
+
+    Merge branch 'bug1' of https://github.com/zokiDjordjijeski/SI_2024_lab1_225003
+
+commit c24c0067795cb9e8fd58a00af91941c457226125 (origin/bug2, bug2)
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:35:16 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit c2a449c323481a9633fc08f33d89769313c60de5
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:29:35 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 96ba3da14042eff1b2a4c6bebf05847689e86321
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:35:16 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit a1e36d4f39b607ed6df61e13cd0c49c94e6ae731 (origin/bug1, bug1)
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:33:32 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 5c42a610cb24e52e3e705d5af39bd50932af4f62
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:29:35 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 006a9ed47e31c72d41f7a2abd06f1581d225b913
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:27:52 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 308e40b090def3c908b60c0b07b1409443815668
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:15:09 2024 +0200
+
+    Add starter code
+
+commit ff9b7f02fe888e6bb6754aef5e75b0c64d51dd20
+Author: Zoran Djordjijeski <155031075+zokiDjordjijeski@users.noreply.github.com>
+Date:   Sat Apr 13 16:13:11 2024 +0200
+
+    Initial commit
